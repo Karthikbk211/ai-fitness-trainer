@@ -85,4 +85,4 @@ ai-fitness-trainer/
 
 ## 👤 Author
 
-**Karthik Bhaskar Kamuju** — [GitHub](https://github.com/Karthikbk211) · [LinkedIn](https://www.linkedin.com/in/karthik-kamuju)
+**Karthik Bhaskar Kamuju** — [GitHub](https://github.com/Karthikbk211) · [LinkedIn](https://www.linkedin.com/in/Karthik-Kamuju)
