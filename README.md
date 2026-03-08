@@ -48,7 +48,7 @@ python fitness_trainer.py
 ## 📦 Requirements
 
 ```
-mediapipe>=0.10.0
+mediapipe>=0.10.4
 opencv-python>=4.7.0
 numpy>=1.24.0
 ```
