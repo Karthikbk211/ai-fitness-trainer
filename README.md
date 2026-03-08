@@ -28,7 +28,7 @@ A rep is counted when the joint moves from the **down position → up position**
 git clone https://github.com/yourusername/ai-fitness-trainer
 cd ai-fitness-trainer
 pip install -r requirements.txt
-python fitness_trainer.py
+python fitness_trainer_v3.py
 ```
 
 ---
@@ -48,7 +48,7 @@ python fitness_trainer.py
 ## 📦 Requirements
 
 ```
-mediapipe>=0.10.4
+mediapipe>=0.10.14
 opencv-python>=4.7.0
 numpy>=1.24.0
 ```
