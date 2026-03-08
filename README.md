@@ -59,7 +59,7 @@ numpy>=1.24.0
 
 ```
 ai-fitness-trainer/
-├── fitness_trainer.py    # Main application
+├── fitness_trainer_v3.py    # Main application
 ├── requirements.txt
 └── README.md
 ```
@@ -85,4 +85,4 @@ ai-fitness-trainer/
 
 ## 👤 Author
 
-**Your Name** — [GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourprofile)
+**Karthik Bhaskar Kamuju** — [GitHub](https://github.com/Karthikbk211) · [LinkedIn](https://www.linkedin.com/in/karthik-bhaskar-kamuju-a83432311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
